@@ -24,4 +24,3 @@ It will start up on port 8761 and serve the Eureka API from "/eureka".
 There is a Maven goal (using a [plugin](https://github.com/spring-cloud-samples/eureka/blob/feature/docker/pom.xml#L48)) to 
 generate the Docker container. The container is published in dockerhub at `springcloud/eureka`.
 
-## Running
